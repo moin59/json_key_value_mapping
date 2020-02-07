@@ -1,0 +1,105 @@
+{
+    "absoluteDiscount": [],
+    "absolutePositionDiscount":{},
+    "absolutePositionTaxRate": 0,
+    "absoluteTaxRate":{},
+    "amount": 1,
+    "attributes": {
+        "entry": [
+            {
+                "name": "locale.position.number",
+                "value": 2
+            },
+            {
+                "name": "articleType",
+                "value": "CatalogueArticle"
+            },
+            {
+                "name": "hasBasePriceOnRequest",
+                "value": false
+            },
+            {
+                "name": "hasPriceOnRequest",
+                "value": false
+            }
+        ]
+    },
+    "basePrice":{},
+    "calculationProperties": {
+        "entry": [
+            {
+                "name": "finalPositionMarginPercent",
+                "value": 5.71
+            },
+            {
+                "name": "finalPositionMargin",
+                "value": 8
+            }
+        ]
+    },
+    "creationDate": "2019-03-21 10:35:31 CET",
+    "discount": 0,
+    "discountedPositionPrice": 140,
+    "discountedPrice": 140,
+    "finalAbsoluteDiscount": 0,
+    "finalAbsolutePositionDiscount": 0,
+    "finalPositionPrice": 140,
+    "finalPrice": 140,
+    "grossPositionPrice": {},
+    "grossPrice": 140,
+    "id": 1552922448787,
+    "label":{},
+    "modificationDate": "2019-03-21 10:35:31 CET",
+    "name": "E00100500",
+    "newAbsolutePositionDiscount": 0,
+    "newAmount": 1,
+    "newBasePrice":[],
+    "newBasicPlainBasePrice": 132,
+    "newBasicPlainListPrice": [],
+    "newCalculatedPositionPrice": [],
+    "newCalculatedPrice": 140,
+    "newDiscountedPositionPrice": 140,
+    "newFinalAmount": 1,
+    "newFinalPositionPrice": 140,
+    "newGrossFinalPositionPrice": {},
+    "newGrossPlainFinalPositionPrice": 140,
+    "newListPrice": 140,
+    "newMaximumPositionDiscount": 140,
+    "newPlainBasePrice": [],
+    "newPlainFinalPositionPrice": 140,
+    "newPlainListPrice": {},
+    "newPlainMaximumPositionDiscount": {},
+    "newPositionBasePrice": {},
+    "newPositionListPrice": [],
+    "newRelativePositionDiscount": 0,
+    "newTaxRate": 0,
+    "nonSalesPositionPrice": 140,
+    "nonSalesPrice": 140,
+    "optional": false,
+    "properties": {
+        "entry": [
+            {
+                "name": "dqm_locked_at",
+                "value": 1553160943470
+            },
+            {
+                "name": "dqm_quote_item_id",
+                "value": "1d06e926-98e8-45f8-b925-fb7e04497dcc"
+            },
+            {
+                "name": "short_text_gui",
+                "value": "HSK Werkzeugaufnahme"
+            },
+            {
+                "name": "dqm_locked_by",
+                "value": "qa"
+            },
+            {
+                "name": "long_text_gui",
+                "value": "<p>Werkzeugaufnahme HSK. 50 St&uuml;ck</p>"
+            }
+        ]
+    },
+    "structureAmount": 1,
+    "taxRate": 0
+}
